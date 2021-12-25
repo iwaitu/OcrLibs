@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcrLibs", "src\OcrLibs\OcrLibs.csproj", "{AB68E19C-1CF1-448D-86EB-774F9524869C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcrWebapi", "src\OcrWebapi\OcrWebapi.csproj", "{6FA7F74C-7BFC-408D-8B70-2EB6D1290BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrLibsForm", "src\OcrLibsForm\OcrLibsForm.csproj", "{4700C728-0EBD-49C3-80C0-E9C1C2DAADF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB68E19C-1CF1-448D-86EB-774F9524869C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB68E19C-1CF1-448D-86EB-774F9524869C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB68E19C-1CF1-448D-86EB-774F9524869C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB68E19C-1CF1-448D-86EB-774F9524869C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA7F74C-7BFC-408D-8B70-2EB6D1290BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA7F74C-7BFC-408D-8B70-2EB6D1290BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA7F74C-7BFC-408D-8B70-2EB6D1290BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA7F74C-7BFC-408D-8B70-2EB6D1290BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4700C728-0EBD-49C3-80C0-E9C1C2DAADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4700C728-0EBD-49C3-80C0-E9C1C2DAADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4700C728-0EBD-49C3-80C0-E9C1C2DAADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4700C728-0EBD-49C3-80C0-E9C1C2DAADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D15491-EB0D-464A-A130-6D70AFD9992F}
+	EndGlobalSection
+EndGlobal
